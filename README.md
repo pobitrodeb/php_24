@@ -1,2 +1,2 @@
-# php_24
-Database Connect to php project.
+# php_day23
+How to get the Image file from the input.
